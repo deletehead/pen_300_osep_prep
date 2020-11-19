@@ -1,2 +1,10 @@
-# pen_300_osep_prep
-Preparation guide for Offensive Security's PEN-300 course and OSEP certification exam
+# Offensive Security PEN-300
+## Evasion Techniques and Breaching Defenses
+Collection of resources used in prep for OSEP, including course material progress.
+
+## Extracurricular Prep
+- Learning C#
+  - https://github.com/mvelazc0/defcon27_csharp_workshop
+  
+  
+## Syllabus
