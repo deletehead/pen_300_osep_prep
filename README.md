@@ -65,4 +65,124 @@ Collection of resources used in prep for OSEP, including course material progres
     - [ ] 3.6.2 Leveraging UnsafeNativeMethods
       - [ ] 3.6.2.1 Exercises
     - [ ] 3.6.3 DelegateType Reflection
-      - [ ] 
+      - [ ] 3.6.3.1 Exercises
+    - [ ] 3.6.4 Reflection Shellcode Runner in PowerShell
+      - [ ] 3.6.4.1 Exercises
+  - [ ] 3.7 Talking To The Proxy
+    - [ ] 3.7.1 PowerShell Proxy-Aware Communication
+      - [ ] 3.7.1.1 Exercises
+    - [ ] 3.7.2 Fiddling With The User-Agent
+      - [ ] 3.7.2.1 Exercises
+    - [ ] 3.7.3 Give Me A SYSTEM Proxy
+      - [ ] 3.7.3.1 Exercise
+  - [ ] 3.8 Wrapping Up
+- [ ] 4. Client Side Code Execution With Windows Script Host
+  - [ ] 4.1 Creating a Basic Dropper in Jscript
+    - [ ] 4.1.1 Execution of Jscript on Windows
+      - [ ] 4.1.1.1 Exercises
+    - [ ] 4.1.2 Jscript Meterpreter Dropper
+      - [ ] 4.1.2.1 Exercises
+  - [ ] 4.2 Jscript and C#
+    - [ ] 4.2.1 Introduction to Visual Studio
+      - [ ] 4.2.1.1 Exercises
+    - [ ] 4.2.2 DotNetToJscript
+      - [ ] 4.2.2.1 Exercises
+    - [ ] 4.2.3 Win32 API Calls From C#
+      - [ ] 4.2.3.1 Exercise
+    - [ ] 4.2.4 Shellcode Runner in C#
+      - [ ] 4.2.4.1 Exercise
+    - [ ] 4.2.5 Jscript Shellcode Runner
+      - [ ] 4.2.5.1 Exercises
+      - [ ] 4.2.5.2 Extra Mile
+    - [ ] 4.2.6 SharpShooter
+      - [ ] 4.2.6.1 Exercises
+  - [ ] 4.3 In-memory PowerShell Revisited
+    - [ ] 4.3.1 Reflective Load
+      - [ ] 4.3.1.1 Exercises
+  - [ ] 4.4 Wrapping Up
+- [ ] 5. Process Injection and Migration
+  - [ ] 5.1 Finding a Home for Our Shellcode
+    - [ ] 5.1.1 Process Injection and Migration Theory
+    - [ ] 5.1.2 Process Injection in C#
+      - [ ] 5.1.2.1 Exercises
+      - [ ] 5.1.2.2 Extra Mile
+    - [ ] 5.2 DLL Injection
+      - [ ] 5.2.1 DLL Injection Theory
+      - [ ] 5.2.2 DLL Injection with C#
+        - [ ] 5.2.2.1 Exercise
+    - [ ] 5.3 Reflective DLL Injection
+      - [ ] 5.3.1 Reflective DLL Injection Theory
+      - [ ] 5.3.2 Reflective DLL Injection in PowerShell
+        - [ ] 5.3.2.1 Exercises
+    - [ ] 5.4 Process Hollowing
+      - [ ] 5.4.1 Process Hollowing Theory
+      - [ ] 5.4.2 Process Hollowing in C#
+        - [ ] 5.4.2.1 Exercises
+    - [ ] 5.5 Wrapping Up
+  - [ ] 6. Introduction to Antivirus Evasion
+    - [ ] 6.1 Antivirus Software Overview
+    - [ ] 6.2 Simulating the Target Environment
+    - [ ] 6.3 Locating Signatures in Files
+        - [ ] 6.3.1.1 Exercise
+    - [ ] 6.4 Bypassing Antivirus with Metasploit
+      - [ ] 6.4.1 Metasploit Encoders
+        - [ ] 6.4.1.1 Exercise
+      - [ ] 6.4.2 Metasploit Encryptors
+        - [ ] 6.4.2.1 Exercises
+    - [ ] 6.5 Bypassing Antivirus with C#
+      - [ ] 6.5.1 C# Shellcode Runner vs Antivirus
+        - [ ] 6.5.1.1 Exercises
+      - [ ] 6.5.2 Encrypting the C# Shellcode Runner
+        - [ ] 6.5.2.1 Exercises
+    - [ ] 6.6 Messing with Our Behavior
+      - [ ] 6.6.1 Simple Sleep Timers
+        - [ ] 6.6.1.1 Exercises
+      - [ ] 6.6.2 Non-emulated APIs
+        - [ ] 6.6.2.1 Exercises
+    - [ ] 6.7 Office Please Bypass Antivirus
+      - [ ] 6.7.1 Bypassing Antivirus in VBA
+        - [ ] 6.7.1.1 Exercises
+      - [ ] 6.7.2 Stomping On Microsoft Word
+        - [ ] 6.7.2.1 Exercises
+    - [ ] 6.8 Hiding PowerShell Inside VBA
+      - [ ] 6.8.1 Detection of PowerShell Shellcode Runner
+        - [ ] 6.8.1.1 Exercises
+      - [ ] 6.8.2 Dechaining with WMI
+        - [ ] 6.8.2.1 Exercises
+      - [ ] 6.8.3 Obfuscating VBA
+        - [ ] 6.8.3.1 Exercises
+        - [ ] 6.8.3.2 Extra Mile Exercise
+    - [ ] 6.9 Wrapping Up
+  - [ ] 7. Advanced Antivirus Evasion
+    - [ ] 7.1 Intel Architecture and Windows 10
+      - [ ] 7.1.1 WinDbg Introduction
+        - [ ] 7.1.1.1 Exercises
+    - [ ] 7.2 Antimalware Scan Interface
+      - [ ] 7.2.1 Understanding AMSI
+      - [ ] 7.2.2 Hooking with Frida
+        - [ ] 7.2.2.1 Exercises
+    - [ ] 7.3 Bypassing AMSI With Reflection in PowerShell
+      - [ ] 7.3.1 What Context Mom?
+        - [ ] 7.3.1.1 Exercises
+      - [ ] 7.3.2 Attacking Initialization
+        - [ ] 7.3.2.1 Exercise
+    - [ ] 7.4 Wrecking AMSI in PowerShell
+      - [ ] 7.4.1 Understanding the Assembly Flow
+        - [ ] 7.4.1.1 Exercises
+      - [ ] 7.4.2 Patching the Internals
+        - [ ] 7.4.2.1 Exercises
+        - [ ] 7.4.2.2 Extra Mile Exercise
+    - [ ] 7.5 UAC Bypass vs Microsoft Defender
+      - [ ] 7.5.1 FodHelper UAC Bypass
+        - [ ] 7.5.1.1 Exercises
+      - [ ] 7.5.2 Improving Fodhelper
+        - [ ] 7.5.2.1 Exercises
+    - [ ] 7.6 Bypassing AMSI in JScript
+      - [ ] 7.6.1 Detecting the AMSI API Flow
+        - [ ] 7.6.1.1 Exercise
+      - [ ] 7.6.2 Is That Your Registry Key?
+        - [ ] 7.6.2.1 Exercises
+      - [ ] 7.6.3 I Am My Own Executable
+        - [ ] 7.6.3.1 Exercises
+    - [ ] 7.7 Wrapping Up
+  - [ ] 8. Application Whitelisting
