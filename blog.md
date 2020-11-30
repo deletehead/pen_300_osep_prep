@@ -3,5 +3,8 @@ This is a blog to put thoughts, feedback, frustrations, and the like as I work t
 
 *Note: I am making every effort to not reveal any info I shouldn't in this doc. If you see anything that you think shouldn't be included in here, esp if it could possibly breach OffSec's academic integrity policy, please let me know ASAP and I will modify.*
 
+## 1 Evasion Techniques and Breaching Defenses: General Course Information
+Overview of the course was typical. I like how they defined pentest (external vs internal) and red team engagement. I'm sure some would disagree with their definitions but I liked the clarity of what they said.
+
 ## 2020-11-28
 Got materials at 19:00. Began organizing VMs, info, connectivity, and parsed through syllabus. Looking good so far.
