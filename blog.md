@@ -12,3 +12,7 @@ Overview of the course was typical. I like how they defined pentest (external vs
 
 ### 2. Operating System and Programming Theory
 Fairly basic programming info towards the beginning. Not meant to be anything groundbreaking. But good for folks who don't have a strong coding background (like me). Gives plenty of wiki links for more info.
+
+I appreciated the Windows-specific info related to WOW64, Win32 APIs, and the registry. I'd worked with APIs and stuff before in shellcode but this gave some theory/context info.
+
+### 3. Client Side Code Execution With Office
