@@ -38,17 +38,17 @@ Collection of resources used in prep for OSEP, including course material progres
       - [x] 3.1.2.1 Exercise
     - [x] 3.1.3 HTML Smuggling
       - [x] 3.1.3.1 Exercises
-  - [ ] 3.2 Phishing With Microsoft Office
+  - [x] 3.2 Phishing With Microsoft Office
     - [x] 3.2.1 Installing Microsoft Office
       - [x] 3.2.1.1 Exercise
     - [x] 3.2.2 Introduction to VBA
       - [x] 3.2.2.1 Exercises
     - [x] 3.2.3 Let PowerShell Help Us
       - [x] 3.2.3.1 Exercises
-  - [ ] 3.3 Keeping Up Appearances
-    - [ ] 3.3.1 Phishing PreTexting
-    - [ ] 3.3.2 The Old Switcheroo
-      - [ ] 3.3.2.1 Exercises
+  - [x] 3.3 Keeping Up Appearances
+    - [x] 3.3.1 Phishing PreTexting
+    - [x] 3.3.2 The Old Switcheroo
+      - [x] 3.3.2.1 Exercises
   - [ ] 3.4 Executing Shellcode in Word Memory
     - [ ] 3.4.1 Calling Win32 APIs from VBA
       - [ ] 3.4.1.1 Exercises
