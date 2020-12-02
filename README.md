@@ -32,19 +32,19 @@ Collection of resources used in prep for OSEP, including course material progres
     - [x] 2.2.3 Windows Registry
   - [x] 2.3 Wrapping Up
 - [ ] 3. Client Side Execution With Office
-  - [ ] 3.1 Will You Be My Dropper
+  - [x] 3.1 Will You Be My Dropper
     - [x] 3.1.1 Staged vs. Non-Staged Payloads
     - [x] 3.1.2 Building Our Droppers
       - [x] 3.1.2.1 Exercise
     - [x] 3.1.3 HTML Smuggling
       - [x] 3.1.3.1 Exercises
   - [ ] 3.2 Phishing With Microsoft Office
-    - [ ] 3.2.1 Installing Microsoft Office
-      - [ ] 3.2.1.1 Exercise
-    - [ ] 3.2.2 Introduction to VBA
-      - [ ] 3.2.2.1 Exercises
-    - [ ] 3.2.3 Let PowerShell Help Us
-      - [ ] 3.2.3.1 Exercises
+    - [x] 3.2.1 Installing Microsoft Office
+      - [x] 3.2.1.1 Exercise
+    - [x] 3.2.2 Introduction to VBA
+      - [x] 3.2.2.1 Exercises
+    - [x] 3.2.3 Let PowerShell Help Us
+      - [x] 3.2.3.1 Exercises
   - [ ] 3.3 Keeping Up Appearances
     - [ ] 3.3.1 Phishing PreTexting
     - [ ] 3.3.2 The Old Switcheroo
