@@ -6,6 +6,8 @@ Collection of resources used in prep for OSEP, including course material progres
 - Learning C#
   - https://github.com/mvelazc0/defcon27_csharp_workshop
   - https://cryptopals.com/
+- AMSI
+  - https://amsi.fail/
 - Process Injection
   - [BH 2019 Process Injection](https://i.blackhat.com/USA-19/Thursday/us-19-Kotler-Process-Injection-Techniques-Gotta-Catch-Them-All-wp.pdf)
 - Talks, etc.
