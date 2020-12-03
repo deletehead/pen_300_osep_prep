@@ -16,3 +16,10 @@ Fairly basic programming info towards the beginning. Not meant to be anything gr
 I appreciated the Windows-specific info related to WOW64, Win32 APIs, and the registry. I'd worked with APIs and stuff before in shellcode but this gave some theory/context info.
 
 ### 3. Client Side Code Execution With Office
+#### I liked
+Solid overall, gave some good ideas for phishing pretexts and a methodical, line-by-line approach to crafting good poisoned documents. I liked how they explained WinAPIs well and how shellcode runners are created in-depth.
+
+#### I did not like
+This will probably be a recurring theme, but I wish other C2 frameworks were introduced instead of MSF only. Also, tons of orgs have been watching for `DownloadString`, `IEX`, and similar techniques so...
+
+#### Goofs
