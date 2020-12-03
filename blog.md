@@ -23,3 +23,4 @@ Solid overall, gave some good ideas for phishing pretexts and a methodical, line
 This will probably be a recurring theme, but I wish other C2 frameworks were introduced instead of MSF only. Also, tons of orgs have been watching for `DownloadString`, `IEX`, and similar techniques so...
 
 #### Goofs
+- 3.6.1 paragraph 1 grammar error last sentence
