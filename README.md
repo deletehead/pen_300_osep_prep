@@ -384,6 +384,82 @@ Collection of resources used in prep for OSEP, including course material progres
       - [ ] 15.1.3.1 Exercises
     - [ ] 15.1.4 Relay My Hash
       - [ ] 15.1.4.1 Exercises
-    
-    
-    
+   - [ ] 15.2 MS SQL Escalation
+    - [ ] 15.2.1 Privilege Escalation
+      - [ ] 15.2.1.1 Exercises
+    - [ ] 15.2.2 Getting Code Execution
+      - [ ] 15.2.2.1 Exercises
+    - [ ] 15.2.3 Custom Assemblies
+      - [ ] 15.2.3.1 Exercises
+  - [ ] 15.3 Linked SQL Servers
+    - [ ] 15.3.1 Follow the Link
+      - [ ] 15.3.1.1 Exercises
+      - [ ] 15.3.1.2 Extra Mile
+    - [ ] 15.3.2 Come Home To Me
+      - [ ] 15.3.2.1 Exercises
+      - [ ] 15.3.2.2 Extra Mile
+  - [ ] 15.4 Wrapping Up
+- [ ] 16 Active Directory Exploitation
+  - [ ] 16.1 AD Object Security Permissions
+    - [ ] 16.1.1 Object Permission Theory
+      - [ ] 16.1.1.1 Exercises
+    - [ ] 16.1.2 Abusing GenericAll
+      - [ ] 16.1.2.1 Exercises
+    - [ ] 16.1.3 Abusing WriteDACL
+      - [ ] 16.1.3.1 Exercises
+      - [ ] 16.1.3.2 Extra Mile
+  - [ ] 16.2 Kerberos Delegation
+    - [ ] 16.2.1 Unconstrained Delegation
+      - [ ] 16.2.1.1 Exercise
+    - [ ] 16.2.2 I Am a Domain Controller
+      - [ ] 16.2.2.1 Exercises
+    - [ ] 16.2.3 Constrained Delegation
+      - [ ] 16.2.3.1 Exercises
+    - [ ] 16.2.4 Resource-Based Constrained Delegation
+      - [ ] 16.2.4.1 Exercises
+  - [ ] 16.3 Active Directory Forest Theory
+    - [ ] 16.3.1 Active Directory Trust in a Forest
+    - [ ] 16.3.2 Enumeration in the Forest
+      - [ ] 16.3.2.1 Exercises
+  - [ ] 16.4 Burning Down the Forest
+    - [ ] 16.4.1 Owning the Forest with Extra SIDs
+      - [ ] 16.4.1.1 Exercise
+      - [ ] 16.4.1.2 Extra Mile
+    - [ ] 16.4.2 Owning the Forest with Printers
+      - [ ] 16.4.2.1 Exercises
+  - [ ] 16.5 Going Beyond the Forest
+    - [ ] 16.5.1 Active Directory Trust Between Forests
+    - [ ] 16.5.2 Enumeration Beyond the Forest
+      - [ ] 16.5.2.1 Exercises
+  - [ ] 16.6 Compromising an Additional Forest
+    - [ ] 16.6.1 Show Me Your Extra SID
+      - [ ] 16.6.1.1 Exercises
+    - [ ] 16.6.2 Linked SQL Servers in the Forest
+      - [ ] 16.6.2.1 Exercises
+      - [ ] 16.6.2.2 Extra Mile
+  - [ ] 16.7 Wrapping Up
+- [ ] 17 Combining the Pieces
+  - [ ] 17.1 Enumeration and Shell
+    - [ ] 17.1.1 Initial Enumeration
+      - [ ] 17.1.1.1 Exercises
+    - [ ] 17.1.2 Gaining an Initial Foothold
+      - [ ] 17.1.2.1 Exercises
+    - [ ] 17.1.3 Post Exploitation Enumeration
+      - [ ] 17.1.3.1 Exercises
+  - [ ] 17.2 Attacking Delegation
+    - [ ] 17.2.1 Privilege Escalation on web01
+      - [ ] 17.2.1.1 Exercises
+    - [ ] 17.2.2 Getting the Hash
+      - [ ] 17.2.2.1 Exercises
+    - [ ] 17.2.3 Delegate My Ticket
+      - [ ] 17.2.3.1 Exercises
+  - [ ] 17.3 Owning the Domain
+    - [ ] 17.3.1 Lateral Movement
+      - [ ] 17.3.1.1 Exercises
+    - [ ] 17.3.2 Becoming Domain Admin
+      - [ ] 17.3.2.1 Exercises
+      - [ ] 17.3.2.2 Extra Mile
+  - [ ] 17.4 Wrapping Up
+- [ ] 18 Trying Harder: The Labs
+  - [ ] 18.1 Real Life Simulations
+  - [ ] 18.2 Wrapping Up
