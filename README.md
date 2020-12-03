@@ -56,16 +56,16 @@ Collection of resources used in prep for OSEP, including course material progres
     - [x] 3.3.1 Phishing PreTexting
     - [x] 3.3.2 The Old Switcheroo
       - [x] 3.3.2.1 Exercises
-  - [ ] 3.4 Executing Shellcode in Word Memory
-    - [ ] 3.4.1 Calling Win32 APIs from VBA
-      - [ ] 3.4.1.1 Exercises
-    - [ ] 3.4.2 VBA Shellcode Runner
-      - [ ] 3.4.2.1 Exercise
-  - [ ] 3.5 PowerShell Shellcode Runner
-    - [ ] 3.5.1 Calling Win32 APIs from PowerShell
-      - [ ] 3.5.1.1 Exercises
-    - [ ] 3.5.2 Porting Shellcode Runner to PowerShell
-      - [ ] 3.5.2.1 Exercises
+  - [x] 3.4 Executing Shellcode in Word Memory
+    - [x] 3.4.1 Calling Win32 APIs from VBA
+      - [x] 3.4.1.1 Exercises
+    - [x] 3.4.2 VBA Shellcode Runner
+      - [x] 3.4.2.1 Exercise
+  - [x] 3.5 PowerShell Shellcode Runner
+    - [x] 3.5.1 Calling Win32 APIs from PowerShell
+      - [x] 3.5.1.1 Exercises
+    - [x] 3.5.2 Porting Shellcode Runner to PowerShell
+      - [x] 3.5.2.1 Exercises
   - [ ] 3.6 Keep That PowerShell in Memory
     - [ ] 3.6.1 Add-Type Compilation
       - [ ] 3.6.1.1 Exercises
