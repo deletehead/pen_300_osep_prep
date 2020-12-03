@@ -2,10 +2,15 @@
 ## Evasion Techniques and Breaching Defenses
 Collection of resources used in prep for OSEP, including course material progress.
 
-## Extracurricular Prep
+## Extracurricular Prep and Resources
 - Learning C#
   - https://github.com/mvelazc0/defcon27_csharp_workshop
   - https://cryptopals.com/
+- Process Injection
+  - [BH 2019 Process Injection](https://i.blackhat.com/USA-19/Thursday/us-19-Kotler-Process-Injection-Techniques-Gotta-Catch-Them-All-wp.pdf)
+- Talks, etc.
+  - [Move Aside, Script Kiddies by Joff Thyer](https://www.blackhillsinfosec.com/wp-content/uploads/2020/12/SLIDES_MoveAsideScriptKiddies.pdf)
+    - Great info on bypassing some defenses. I thought some of his AMSI info was good.
   
 ## Course Progress
 - [ ] Videos
@@ -185,4 +190,200 @@ Collection of resources used in prep for OSEP, including course material progres
       - [ ] 7.6.3 I Am My Own Executable
         - [ ] 7.6.3.1 Exercises
     - [ ] 7.7 Wrapping Up
-  - [ ] 8. Application Whitelisting
+- [ ] 8. Application Whitelisting
+  - [ ] 8.1 Application Whitelisting Theory and Setup
+    - [ ] 8.1.1 Application Whitelisting Theory
+    - [ ] 8.1.2 AppLocker Setup and Rules
+      - [ ] 8.1.2.1 Exercises
+  - [ ] 8.2 Basic Bypasses
+    - [ ] 8.2.1 Trusted Folders
+      - [ ] 8.2.1.1 Exercises
+    - [ ] 8.2.2 Bypass With DLLs
+      - [ ] 8.2.2.1 Exercises
+      - [ ] 8.2.2.2 Extra Mile
+    - [ ] 8.2.3 Alternate Data Streams
+      - [ ] 8.2.3.1 Exercises
+    - [ ] 8.2.4 Third Party Execution
+      - [ ] 8.2.4.1 Exercise
+  - [ ] 8.3 Bypassing AppLocker with PowerShell
+    - [ ] 8.3.1 PowerShell Constrained Language Mode
+      - [ ] 8.3.1.1 Exercises
+    - [ ] 8.3.2 Custom Runspaces
+      - [ ] 8.3.2.1 Exercises
+    - [ ] 8.3.3 PowerShell CLM Bypass
+      - [ ] 8.3.3.1 Exercises
+    - [ ] 8.3.4 Reflective Injection Returns
+      - [ ] 8.3.4.1 Exercise
+  - [ ] 8.4 Bypassing AppLocker with C#
+    - [ ] 8.4.1 Locating a Target
+    - [ ] 8.4.2 Reverse Engineering for Load
+      - [ ] 8.4.2.1 Exercises
+    - [ ] 8.4.3 Give Me Code Exec
+      - [ ] 8.4.3.1 Exercise
+    - [ ] 8.4.4 Invoking the Target Part 1
+      - [ ] 8.4.4.1 Exercises
+    - [ ] 8.4.5 Invoking the Target Part 2
+      - [ ] 8.4.5.1 Exercises
+      - [ ] 8.4.5.2 Extra Mile
+  - [ ] 8.5 Bypassing AppLocker with JScript
+    - [ ] 8.5.1 JScript and MSHTA
+      - [ ] 8.5.1.1 Exercises
+    - [ ] 8.5.2 XSL Transform
+      - [ ] 8.5.2.1 Exercises
+      - [ ] 8.5.2.2 Extra Mile
+  - [ ] 8.6 Wrapping Up
+- [ ] 9 Bypassing Network Filters
+  - [ ] 9.1 DNS Filters
+    - [ ] 9.1.1 DNS Filters
+      - [ ] 9.1.1.1 Exercises
+    - [ ] 9.1.2 Dealing with DNS Filters
+      - [ ] 9.1.2.1 Exercise
+  - [ ] 9.2 Web Proxies
+    - [ ] 9.2.1 Bypassing Web Proxies
+      - [ ] 9.2.1.1 Exercises
+  - [ ] 9.3 IDS and IPS Sensors
+    - [ ] 9.3.1 Case Study: Bypassing Norton HIPS with Custom Certificates
+      - [ ] 9.3.1.1 Exercises
+  - [ ] 9.4 Full Packet Capture Devices
+  - [ ] 9.5 HTTPS Inspection
+  - [ ] 9.6 Domain Fronting
+    - [ ] 9.6.1 Domain Fronting with Azure CDN
+      - [ ] 9.6.1.1 Exercise
+      - [ ] 9.6.1.2 Extra Mile
+    - [ ] 9.6.2 Domain Fronting in the Lab
+      - [ ] 9.6.2.1 Exercises
+      - [ ] 9.6.2.2 Extra Mile
+  - [ ] 9.7 DNS Tunneling
+    - [ ] 9.7.1 How DNS Tunneling Works
+    - [ ] 9.7.2 DNS Tunneling with dnscat2
+      - [ ] 9.7.2.1 Exercises
+  - [ ] 9.8 Wrapping Up
+- [ ] 10 Linux Post-Exploitation
+  - [ ] 10.1 User Configuration Files
+    - [ ] 10.1.1 VIM Config Simple Backdoor
+      - [ ] 10.1.1.1 Exercises
+      - [ ] 10.1.1.2 Extra Mile
+    - [ ] 10.1.2 VIM Config Simple Keylogger
+      - [ ] 10.1.2.1 Exercises
+  - [ ] 10.2 Bypassing AV
+    - [ ] 10.2.1 Kaspersky Endpoint Security
+    - [ ] 10.2.2 Antiscan.me
+      - [ ] 10.2.2.1 Exercises
+      - [ ] 10.2.2.2 Extra Mile
+  - [ ] 10.3 Shared Libraries
+    - [ ] 10.3.1 How Shared Libraries Work on Linux
+    - [ ] 10.3.2 Shared Library Hijacking via LD_LIBRARY_PATH
+      - [ ] 10.3.2.1 Exercises
+      - [ ] 10.3.2.2 Extra Mile
+    - [ ] 10.3.3 Exploitation via LD_PRELOAD
+      - [ ] 10.3.3.1 Exercises
+  - [ ] 10.4 Wrapping Up
+- [ ] 11 Kiosk Breakouts
+  - [ ] 11.1 Kiosk Enumeration
+    - [ ] 11.1.1 Kiosk Browser Enumeration
+      - [ ] 11.1.1.1 Exercises
+  - [ ] 11.2 Command Execution
+    - [ ] 11.2.1 Exploring the Filesystem
+    - [ ] 11.2.2 Leveraging Firefox Profiles
+    - [ ] 11.2.3 Enumerating System Information
+    - [ ] 11.2.4 Scratching the Surface
+      - [ ] 11.2.4.1 Exercises
+      - [ ] 11.2.4.2 Extra Mile
+  - [ ] 11.3 Post-Exploitation
+    - [ ] 11.3.1 Simulating an Interactive Shell
+      - [ ] 11.3.1.1 Exercises
+      - [ ] 11.3.1.2 Extra Mile
+  - [ ] 11.4 Privilege Escalation
+    - [ ] 11.4.1 Thinking Outside the Box
+    - [ ] 11.4.2 Root Shell at the Top of the Hour
+    - [ ] 11.4.3 Getting Root Terminal Access
+      - [ ] 11.4.3.1 Exercises
+  - [ ] 11.5 Windows Kiosk Breakout Techniques
+    - [ ] 11.5.1 Windows Kiosk Breakout Techniques
+      - [ ] 11.5.1.1 Exercises
+  - [ ] 11.6 Wrapping Up
+- [ ] 12 Windows Credentials
+  - [ ] 12.1 Local Windows Credentials
+    - [ ] 12.1.1 SAM Database
+      - [ ] 12.1.1.1 Exercises
+    - [ ] 12.1.2 Hardening the Local Administrator Account
+      - [ ] 12.1.2.1 Exercises
+  - [ ] 12.2 Access Tokens
+    - [ ] 12.2.1 Access Token Theory
+      - [ ] 12.2.1.1 Exercise
+    - [ ] 12.2.2 Elevation with Impersonation
+      - [ ] 12.2.2.1 Exercises
+    - [ ] 12.2.3 Fun with Incognito
+      - [ ] 12.2.3.1 Exercise    
+  - [ ] 12.3 Kerberos and Domain Credentials
+    - [ ] 12.3.1 Kerberos Authentication
+    - [ ] 12.3.2 Mimikatz
+      - [ ] 12.3.2.1 Exercises
+  - [ ] 12.4 Processing Credentials Offline
+    - [ ] 12.4.1 Memory Dump
+      - [ ] 12.4.1.1 Exercises
+    - [ ] 12.4.2 MiniDumpWriteDump
+      - [ ] 12.4.2.1 Exercises
+  - [ ] 12.5 Wrapping Up
+- [ ] 13 Windows Lateral Movement
+  - [ ] 13.1 Remote Desktop Protocol
+    - [ ] 13.1.1 Lateral Movement with RDP
+      - [ ] 13.1.1.1 Exercises
+    - [ ] 13.1.2 Reverse RDP Proxying with Metasploit
+      - [ ] 13.1.2.1 Exercise
+    - [ ] 13.1.3 Reverse RDP Proxying with Chisel
+      - [ ] 13.1.3.1 Exercise
+    - [ ] 13.1.4 RDP as a Console
+      - [ ] 13.1.4.1 Exercise
+    - [ ] 13.1.5 Stealing Clear Text Credentials from RDP
+      - [ ] 13.1.5.1 Exercises
+  - [ ] 13.2 Fileless Lateral Movement
+    - [ ] 13.2.1 Authentication and Execution Theory
+    - [ ] 13.2.2 Implementing Fileless Lateral Movement in C#
+      - [ ] 13.2.2.1 Exercises
+  - [ ] 13.3 Wrapping Up
+- [ ] 14 Linux Lateral Movement
+  - [ ] 14.1 Lateral Movement with SSH
+    - [ ] 14.1.1 SSH Keys
+    - [ ] 14.1.2 SSH Persistence
+      - [ ] 14.1.2.1 Exercises
+    - [ ] 14.1.3 SSH Hijacking with ControlMaster
+    - [ ] 14.1.4 SSH Hijacking Using SSH-Agent and SSH Agent Forwarding
+      - [ ] 14.1.4.1 Exercises
+  - [ ] 14.2 DevOps
+    - [ ] 14.2.1 Introduction to Ansible
+    - [ ] 14.2.2 Enumerating Ansible
+    - [ ] 14.2.3 Ad-hoc Commands
+    - [ ] 14.2.4 Ansible Playbooks
+    - [ ] 14.2.5 Exploiting Playbooks for Ansible Credentials
+    - [ ] 14.2.6 Weak Permissions on Ansible Playbooks
+    - [ ] 14.2.7 Sensitive Data Leakage via Ansible Modules
+      - [ ] 14.2.7.1 Exercises
+    - [ ] 14.2.8 Introduction to Artifactory
+    - [ ] 14.2.9 Artifactory Enumeration
+    - [ ] 14.2.10 Compromising Artifactory Backups
+    - [ ] 14.2.11 Compromising Artifactory’s Database
+    - [ ] 14.2.12 Adding a Secondary Artifactory Admin Account
+      - [ ] 14.2.12.1 Exercises
+  - [ ] 14.3 Kerberos on Linux
+    - [ ] 14.3.1 General Introduction to Kerberos on Linux
+    - [ ] 14.3.2 Stealing Keytab Files
+      - [ ] 14.3.2.1 Exercise
+    - [ ] 14.3.3 Attacking Using Credential Cache Files
+    - [ ] 14.3.4 Using Kerberos with Impacket
+      - [ ] 14.3.4.1 Exercises
+      - [ ] 14.3.4.2 Extra Mile
+  - [ ] 14.4 Wrapping Up
+- [ ] 15 Microsoft SQL Attacks
+  - [ ] 15.1 MS SQL in Active Directory
+    - [ ] 15.1.1 MS SQL Enumeration
+      - [ ] 15.1.1.1 Exercise
+    - [ ] 15.1.2 MS SQL Authentication
+      - [ ] 15.1.2.1 Exercises
+    - [ ] 15.1.3 UNC Path Injection
+      - [ ] 15.1.3.1 Exercises
+    - [ ] 15.1.4 Relay My Hash
+      - [ ] 15.1.4.1 Exercises
+    
+    
+    
