@@ -4,6 +4,10 @@ This is a blog to put thoughts, feedback, frustrations, and the like as I work t
 *Note: I am making every effort to not reveal any info I shouldn't in this doc. If you see anything that you think shouldn't be included in here, esp if it could possibly breach OffSec's academic integrity policy, please let me know ASAP and I will modify.*
 
 ## Overall Notes
+### Experience
+I'm starting this after completing OSCP (2017-2018), ye olde OSCE (2018-2019), and the AWAE course (in-progress). I have about 2.5 years of official offensive security experience and another year of serious training before that prepping for OSCP. Half a year was an internal offsec team and the other 2 years was in consulting. While I'm very determined, I don't consider myself particularly gifted. I failed OSCP twice and OSCE three times.
+
+### Notes on PEN-300
 - I wish it would have at least touched on macOS and/or cloud, considering many newer companies have one or both of those (sometimes with no Windows footprint at all).
 
 ## Course Sections
