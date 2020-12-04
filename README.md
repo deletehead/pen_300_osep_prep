@@ -69,12 +69,12 @@ Collection of resources used in prep for OSEP, including course material progres
     - [x] 3.5.2 Porting Shellcode Runner to PowerShell
       - [x] 3.5.2.1 Exercises
   - [ ] 3.6 Keep That PowerShell in Memory
-    - [ ] 3.6.1 Add-Type Compilation
-      - [ ] 3.6.1.1 Exercises
-    - [ ] 3.6.2 Leveraging UnsafeNativeMethods
-      - [ ] 3.6.2.1 Exercises
-    - [ ] 3.6.3 DelegateType Reflection
-      - [ ] 3.6.3.1 Exercises
+    - [x] 3.6.1 Add-Type Compilation
+      - [x] 3.6.1.1 Exercises
+    - [x] 3.6.2 Leveraging UnsafeNativeMethods
+      - [x] 3.6.2.1 Exercises
+    - [x] 3.6.3 DelegateType Reflection
+      - [x] 3.6.3.1 Exercises
     - [ ] 3.6.4 Reflection Shellcode Runner in PowerShell
       - [ ] 3.6.4.1 Exercises
   - [ ] 3.7 Talking To The Proxy
