@@ -6,6 +6,8 @@ Collection of resources used in prep for OSEP, including course material progres
 - Learning C#
   - https://github.com/mvelazc0/defcon27_csharp_workshop
   - https://cryptopals.com/
+- Powershell
+  - [Accessing the Windows API in PowerShell via internal .NET methods and reflection](http://www.exploit-monday.com/2012_05_13_archive.html)
 - AMSI
   - https://amsi.fail/
 - Process Injection
