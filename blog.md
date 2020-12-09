@@ -47,5 +47,6 @@ I don't have a lot of experience with SE, so this was a great module. I like how
 #### I did not like
 
 #### Pain points and stuff to review
+- Go back and do 5.1.2.2 Extra Mile. Looks very useful.
 
 #### Goofs
