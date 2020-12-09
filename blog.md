@@ -10,6 +10,10 @@ I'm starting this after completing OSCP (2017-2018), ye olde OSCE (2018-2019), a
 ### Notes on PEN-300
 - I wish it would have at least touched on macOS and/or cloud, considering many newer companies have one or both of those (sometimes with no Windows footprint at all).
 - I like how it favors the line-upon-line approach, and the exercises generally follow the content (except just a little further to ensure you aren't just cp/pasting code)
+- It would be great if they'd add the ability to do 1.2x, 1.5x, 2.0x, etc. for the videos, as the speaking is fairly slow. Slow is ok for the first time around but when you're looking back for something specific it is agonizing. For now I use this (from my friend Jacob Skiba):
+```
+javascript:(function(){v = document.getElementsByTagName("video")[0]; if (!v) { alert("Cannot find video tag"); return } ; i = prompt("Enter a video speed\n(example: .5, 1 (default), 2.3)"); if (isNaN(i) || parseInt(i) <= 0) { alert("Must enter a positive number"); return } else { v.playbackRate = i; console.log("New speed: "+ v.playbackRate); v.play(); return }})()
+```
 
 ## Course Sections
 ### 1. Evasion Techniques and Breaching Defenses: General Course Information
