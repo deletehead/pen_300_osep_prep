@@ -9,6 +9,7 @@ I'm starting this after completing OSCP (2017-2018), ye olde OSCE (2018-2019), a
 
 ### Notes on PEN-300
 - I wish it would have at least touched on macOS and/or cloud, considering many newer companies have one or both of those (sometimes with no Windows footprint at all).
+- I like how it favors the line-upon-line approach, and the exercises generally follow the content (except just a little further to ensure you aren't just cp/pasting code)
 
 ## Course Sections
 ### 1. Evasion Techniques and Breaching Defenses: General Course Information
@@ -31,3 +32,16 @@ This will probably be a recurring theme, but I wish other C2 frameworks were int
 
 #### Goofs
 - 3.6.1 paragraph 1 grammar error last sentence
+
+### 4. Client Side Code Execution With Windows Script Host
+#### I liked
+I don't have a lot of experience with SE, so this was a great module. I like how it touched on Sharpshooter and some great frameworks, BUT it gave a solid understanding of the underlying techniques so we can modify the automated tools as-needed for evasion.
+
+### 5. Process Injection and Migration
+#### I liked
+
+#### I did not like
+
+#### Pain points and stuff to review
+
+#### Goofs
