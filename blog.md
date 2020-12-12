@@ -43,10 +43,12 @@ I don't have a lot of experience with SE, so this was a great module. I like how
 
 ### 5. Process Injection and Migration
 #### I liked
+Explanation of all the techniques were good (with the exception of reflective PE injection...but I'm ok with that). I feel confident in my understanding of process injection, DLL injection, and hollowing after this section.
 
 #### I did not like
 
 #### Pain points and stuff to review
+- 5.1.2.1 - do #3 "the right way" -- I used reflection/assembly.load for the sake of time, but I should translate all the APIs into powershell.
 - Go back and do 5.1.2.2 Extra Mile. Looks very useful.
 
 #### Goofs
