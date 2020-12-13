@@ -52,3 +52,14 @@ Explanation of all the techniques were good (with the exception of reflective PE
 - Go back and do 5.1.2.2 Extra Mile. Looks very useful.
 
 #### Goofs
+
+### 6. Introduction to Antivirus Evasion
+#### I liked
+
+
+#### I did not like
+
+#### Pain points and stuff to review
+
+#### Goofs
+- p.159, grammar goof - "The most complicated approach is to reverse-engineering the antivirus..."
