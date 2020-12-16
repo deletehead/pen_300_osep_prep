@@ -55,7 +55,7 @@ Explanation of all the techniques were good (with the exception of reflective PE
 
 ### 6. Introduction to Antivirus Evasion
 #### I liked
-The techniques were cool and fairly simple to implement. It was great to walk out with some Defender-killing techniques.
+The techniques were cool and fairly simple to implement. It was great to walk out with some Defender-killing techniques. The heuristics bypasses were really interesting.
 
 #### I did not like
 
