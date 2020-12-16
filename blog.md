@@ -63,3 +63,4 @@ Explanation of all the techniques were good (with the exception of reflective PE
 
 #### Goofs
 - p.159, grammar goof - "The most complicated approach is to reverse-engineering the antivirus..."
+- p.184, capitalization error - "As for VirtualALlocEx,..."
