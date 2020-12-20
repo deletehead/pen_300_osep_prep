@@ -109,59 +109,59 @@ Collection of resources used in prep for OSEP, including course material progres
     - [x] 4.3.1 Reflective Load
       - [x] 4.3.1.1 Exercises
   - [x] 4.4 Wrapping Up
-- [ ] 5. Process Injection and Migration
-  - [ ] 5.1 Finding a Home for Our Shellcode
-    - [ ] 5.1.1 Process Injection and Migration Theory
-    - [ ] 5.1.2 Process Injection in C#
-      - [ ] 5.1.2.1 Exercises
+- [x] 5. Process Injection and Migration
+  - [x] 5.1 Finding a Home for Our Shellcode
+    - [x] 5.1.1 Process Injection and Migration Theory
+    - [x] 5.1.2 Process Injection in C#
+      - [x] 5.1.2.1 Exercises
       - [ ] 5.1.2.2 Extra Mile
-    - [ ] 5.2 DLL Injection
-      - [ ] 5.2.1 DLL Injection Theory
-      - [ ] 5.2.2 DLL Injection with C#
-        - [ ] 5.2.2.1 Exercise
-    - [ ] 5.3 Reflective DLL Injection
-      - [ ] 5.3.1 Reflective DLL Injection Theory
-      - [ ] 5.3.2 Reflective DLL Injection in PowerShell
-        - [ ] 5.3.2.1 Exercises
-    - [ ] 5.4 Process Hollowing
-      - [ ] 5.4.1 Process Hollowing Theory
-      - [ ] 5.4.2 Process Hollowing in C#
-        - [ ] 5.4.2.1 Exercises
-    - [ ] 5.5 Wrapping Up
-  - [ ] 6. Introduction to Antivirus Evasion
-    - [ ] 6.1 Antivirus Software Overview
-    - [ ] 6.2 Simulating the Target Environment
-    - [ ] 6.3 Locating Signatures in Files
-        - [ ] 6.3.1.1 Exercise
-    - [ ] 6.4 Bypassing Antivirus with Metasploit
-      - [ ] 6.4.1 Metasploit Encoders
-        - [ ] 6.4.1.1 Exercise
-      - [ ] 6.4.2 Metasploit Encryptors
-        - [ ] 6.4.2.1 Exercises
-    - [ ] 6.5 Bypassing Antivirus with C#
-      - [ ] 6.5.1 C# Shellcode Runner vs Antivirus
-        - [ ] 6.5.1.1 Exercises
-      - [ ] 6.5.2 Encrypting the C# Shellcode Runner
-        - [ ] 6.5.2.1 Exercises
-    - [ ] 6.6 Messing with Our Behavior
-      - [ ] 6.6.1 Simple Sleep Timers
-        - [ ] 6.6.1.1 Exercises
-      - [ ] 6.6.2 Non-emulated APIs
-        - [ ] 6.6.2.1 Exercises
-    - [ ] 6.7 Office Please Bypass Antivirus
-      - [ ] 6.7.1 Bypassing Antivirus in VBA
-        - [ ] 6.7.1.1 Exercises
-      - [ ] 6.7.2 Stomping On Microsoft Word
-        - [ ] 6.7.2.1 Exercises
-    - [ ] 6.8 Hiding PowerShell Inside VBA
-      - [ ] 6.8.1 Detection of PowerShell Shellcode Runner
-        - [ ] 6.8.1.1 Exercises
-      - [ ] 6.8.2 Dechaining with WMI
-        - [ ] 6.8.2.1 Exercises
-      - [ ] 6.8.3 Obfuscating VBA
-        - [ ] 6.8.3.1 Exercises
+    - [x] 5.2 DLL Injection
+      - [x] 5.2.1 DLL Injection Theory
+      - [x] 5.2.2 DLL Injection with C#
+        - [x] 5.2.2.1 Exercise
+    - [x] 5.3 Reflective DLL Injection
+      - [x] 5.3.1 Reflective DLL Injection Theory
+      - [x] 5.3.2 Reflective DLL Injection in PowerShell
+        - [x] 5.3.2.1 Exercises
+    - [x] 5.4 Process Hollowing
+      - [x] 5.4.1 Process Hollowing Theory
+      - [x] 5.4.2 Process Hollowing in C#
+        - [x] 5.4.2.1 Exercises
+    - [x] 5.5 Wrapping Up
+  - [x] 6. Introduction to Antivirus Evasion
+    - [x] 6.1 Antivirus Software Overview
+    - [x] 6.2 Simulating the Target Environment
+    - [x] 6.3 Locating Signatures in Files
+        - [x] 6.3.1.1 Exercise
+    - [x] 6.4 Bypassing Antivirus with Metasploit
+      - [x] 6.4.1 Metasploit Encoders
+        - [x] 6.4.1.1 Exercise
+      - [x] 6.4.2 Metasploit Encryptors
+        - [x] 6.4.2.1 Exercises
+    - [x] 6.5 Bypassing Antivirus with C#
+      - [x] 6.5.1 C# Shellcode Runner vs Antivirus
+        - [x] 6.5.1.1 Exercises
+      - [x] 6.5.2 Encrypting the C# Shellcode Runner
+        - [x] 6.5.2.1 Exercises
+    - [x] 6.6 Messing with Our Behavior
+      - [x] 6.6.1 Simple Sleep Timers
+        - [x] 6.6.1.1 Exercises
+      - [x] 6.6.2 Non-emulated APIs
+        - [x] 6.6.2.1 Exercises
+    - [x] 6.7 Office Please Bypass Antivirus
+      - [x] 6.7.1 Bypassing Antivirus in VBA
+        - [x] 6.7.1.1 Exercises
+      - [x] 6.7.2 Stomping On Microsoft Word
+        - [x] 6.7.2.1 Exercises
+    - [x] 6.8 Hiding PowerShell Inside VBA
+      - [x] 6.8.1 Detection of PowerShell Shellcode Runner
+        - [x] 6.8.1.1 Exercises
+      - [x] 6.8.2 Dechaining with WMI
+        - [x] 6.8.2.1 Exercises
+      - [x] 6.8.3 Obfuscating VBA
+        - [x] 6.8.3.1 Exercises
         - [ ] 6.8.3.2 Extra Mile Exercise
-    - [ ] 6.9 Wrapping Up
+    - [x] 6.9 Wrapping Up
   - [ ] 7. Advanced Antivirus Evasion
     - [ ] 7.1 Intel Architecture and Windows 10
       - [ ] 7.1.1 WinDbg Introduction
