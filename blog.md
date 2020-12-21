@@ -57,6 +57,8 @@ Explanation of all the techniques were good (with the exception of reflective PE
 #### I liked
 The techniques were cool and fairly simple to implement. It was great to walk out with some Defender-killing techniques. The heuristics bypasses were really interesting.
 
+I like how the theory of AV tools was discussed and how the exercises were relevant and got you thinking about how to bypass. This was in positive stark contrast to ye olde OSCE.
+
 #### I did not like
 
 #### Pain points and stuff to review
@@ -64,3 +66,13 @@ The techniques were cool and fairly simple to implement. It was great to walk ou
 #### Goofs
 - p.159, grammar goof - "The most complicated approach is to reverse-engineering the antivirus..."
 - p.184, capitalization error - "As for VirtualALlocEx,..."
+
+### 7. Advanced Antivirus Evasion
+#### I liked
+
+#### I did not like
+
+#### Pain points and stuff to review
+
+#### Goofs
+- In 7.1.1, mention that you should connect to the `defender` host, not the `dev` host. I poked around on `dev` looking for Windbg and it wasn't there. Better yet, just have Windbg on both (not sure why you wouldn't have it on the `dev` machine :D)
