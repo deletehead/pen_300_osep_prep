@@ -163,24 +163,24 @@ Collection of resources used in prep for OSEP, including course material progres
         - [ ] 6.8.3.2 Extra Mile Exercise
     - [x] 6.9 Wrapping Up
   - [ ] 7. Advanced Antivirus Evasion
-    - [ ] 7.1 Intel Architecture and Windows 10
-      - [ ] 7.1.1 WinDbg Introduction
-        - [ ] 7.1.1.1 Exercises
-    - [ ] 7.2 Antimalware Scan Interface
-      - [ ] 7.2.1 Understanding AMSI
-      - [ ] 7.2.2 Hooking with Frida
-        - [ ] 7.2.2.1 Exercises
-    - [ ] 7.3 Bypassing AMSI With Reflection in PowerShell
-      - [ ] 7.3.1 What Context Mom?
-        - [ ] 7.3.1.1 Exercises
-      - [ ] 7.3.2 Attacking Initialization
-        - [ ] 7.3.2.1 Exercise
+    - [x] 7.1 Intel Architecture and Windows 10
+      - [x] 7.1.1 WinDbg Introduction
+        - [x] 7.1.1.1 Exercises
+    - [x] 7.2 Antimalware Scan Interface
+      - [x] 7.2.1 Understanding AMSI
+      - [x] 7.2.2 Hooking with Frida
+        - [x] 7.2.2.1 Exercises
+    - [x] 7.3 Bypassing AMSI With Reflection in PowerShell
+      - [x] 7.3.1 What Context Mom?
+        - [x] 7.3.1.1 Exercises
+      - [x] 7.3.2 Attacking Initialization
+        - [x] 7.3.2.1 Exercise
     - [ ] 7.4 Wrecking AMSI in PowerShell
-      - [ ] 7.4.1 Understanding the Assembly Flow
-        - [ ] 7.4.1.1 Exercises
-      - [ ] 7.4.2 Patching the Internals
-        - [ ] 7.4.2.1 Exercises
-        - [ ] 7.4.2.2 Extra Mile Exercise
+      - [x] 7.4.1 Understanding the Assembly Flow
+        - [x] 7.4.1.1 Exercises
+      - [x] 7.4.2 Patching the Internals
+        - [x] 7.4.2.1 Exercises
+        - [x] 7.4.2.2 Extra Mile Exercise
     - [ ] 7.5 UAC Bypass vs Microsoft Defender
       - [ ] 7.5.1 FodHelper UAC Bypass
         - [ ] 7.5.1.1 Exercises
