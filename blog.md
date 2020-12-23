@@ -69,6 +69,7 @@ I like how the theory of AV tools was discussed and how the exercises were relev
 
 ### 7. Advanced Antivirus Evasion
 #### I liked
+I loved how they went over Windbg in a very approachable way. It somehow made things a bit easier when moving from x86 debuggers (Immunity, Olly, etc.). The AMSI theory was excellent and helped me to understand it much better. The AMSI bypass examples were exceptional and paved the way for developing your own.
 
 #### I did not like
 
