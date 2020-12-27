@@ -162,7 +162,7 @@ Collection of resources used in prep for OSEP, including course material progres
         - [x] 6.8.3.1 Exercises
         - [ ] 6.8.3.2 Extra Mile Exercise
     - [x] 6.9 Wrapping Up
-  - [ ] 7. Advanced Antivirus Evasion
+  - [x] 7. Advanced Antivirus Evasion
     - [x] 7.1 Intel Architecture and Windows 10
       - [x] 7.1.1 WinDbg Introduction
         - [x] 7.1.1.1 Exercises
@@ -175,25 +175,25 @@ Collection of resources used in prep for OSEP, including course material progres
         - [x] 7.3.1.1 Exercises
       - [x] 7.3.2 Attacking Initialization
         - [x] 7.3.2.1 Exercise
-    - [ ] 7.4 Wrecking AMSI in PowerShell
+    - [x] 7.4 Wrecking AMSI in PowerShell
       - [x] 7.4.1 Understanding the Assembly Flow
         - [x] 7.4.1.1 Exercises
       - [x] 7.4.2 Patching the Internals
         - [x] 7.4.2.1 Exercises
         - [x] 7.4.2.2 Extra Mile Exercise
-    - [ ] 7.5 UAC Bypass vs Microsoft Defender
-      - [ ] 7.5.1 FodHelper UAC Bypass
-        - [ ] 7.5.1.1 Exercises
-      - [ ] 7.5.2 Improving Fodhelper
-        - [ ] 7.5.2.1 Exercises
-    - [ ] 7.6 Bypassing AMSI in JScript
-      - [ ] 7.6.1 Detecting the AMSI API Flow
-        - [ ] 7.6.1.1 Exercise
-      - [ ] 7.6.2 Is That Your Registry Key?
-        - [ ] 7.6.2.1 Exercises
-      - [ ] 7.6.3 I Am My Own Executable
-        - [ ] 7.6.3.1 Exercises
-    - [ ] 7.7 Wrapping Up
+    - [x] 7.5 UAC Bypass vs Microsoft Defender
+      - [x] 7.5.1 FodHelper UAC Bypass
+        - [x] 7.5.1.1 Exercises
+      - [x] 7.5.2 Improving Fodhelper
+        - [x] 7.5.2.1 Exercises
+    - [x] 7.6 Bypassing AMSI in JScript
+      - [x] 7.6.1 Detecting the AMSI API Flow
+        - [x] 7.6.1.1 Exercise
+      - [x] 7.6.2 Is That Your Registry Key?
+        - [x] 7.6.2.1 Exercises
+      - [x] 7.6.3 I Am My Own Executable
+        - [x] 7.6.3.1 Exercises
+    - [x] 7.7 Wrapping Up
 - [ ] 8. Application Whitelisting
   - [ ] 8.1 Application Whitelisting Theory and Setup
     - [ ] 8.1.1 Application Whitelisting Theory
