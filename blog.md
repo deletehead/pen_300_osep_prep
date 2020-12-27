@@ -74,6 +74,8 @@ I loved how they went over Windbg in a very approachable way. It somehow made th
 #### I did not like
 
 #### Pain points and stuff to review
+- Should really review the Jscript AMSI section and do/redo the exercises. DotNetToJscript wasn't working super great for some reason, so I glossed over it a bit.
+- Also, check sharpshooter with AMSI bypass. Need to get that working.
 
 #### Goofs
 - In 7.1.1, mention that you should connect to the `defender` host, not the `dev` host. I poked around on `dev` looking for Windbg and it wasn't there. Better yet, just have Windbg on both (not sure why you wouldn't have it on the `dev` machine :D)
