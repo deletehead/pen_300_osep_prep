@@ -195,25 +195,25 @@ Collection of resources used in prep for OSEP, including course material progres
         - [x] 7.6.3.1 Exercises
     - [x] 7.7 Wrapping Up
 - [ ] 8. Application Whitelisting
-  - [ ] 8.1 Application Whitelisting Theory and Setup
-    - [ ] 8.1.1 Application Whitelisting Theory
-    - [ ] 8.1.2 AppLocker Setup and Rules
-      - [ ] 8.1.2.1 Exercises
-  - [ ] 8.2 Basic Bypasses
-    - [ ] 8.2.1 Trusted Folders
-      - [ ] 8.2.1.1 Exercises
-    - [ ] 8.2.2 Bypass With DLLs
-      - [ ] 8.2.2.1 Exercises
-      - [ ] 8.2.2.2 Extra Mile
-    - [ ] 8.2.3 Alternate Data Streams
-      - [ ] 8.2.3.1 Exercises
-    - [ ] 8.2.4 Third Party Execution
-      - [ ] 8.2.4.1 Exercise
+  - [x] 8.1 Application Whitelisting Theory and Setup
+    - [x] 8.1.1 Application Whitelisting Theory
+    - [x] 8.1.2 AppLocker Setup and Rules
+      - [x] 8.1.2.1 Exercises
+  - [x] 8.2 Basic Bypasses
+    - [x] 8.2.1 Trusted Folders
+      - [x] 8.2.1.1 Exercises
+    - [x] 8.2.2 Bypass With DLLs
+      - [x] 8.2.2.1 Exercises
+      - [x] 8.2.2.2 Extra Mile
+    - [x] 8.2.3 Alternate Data Streams
+      - [x] 8.2.3.1 Exercises
+    - [x] 8.2.4 Third Party Execution
+      - [x] 8.2.4.1 Exercise
   - [ ] 8.3 Bypassing AppLocker with PowerShell
-    - [ ] 8.3.1 PowerShell Constrained Language Mode
-      - [ ] 8.3.1.1 Exercises
-    - [ ] 8.3.2 Custom Runspaces
-      - [ ] 8.3.2.1 Exercises
+    - [x] 8.3.1 PowerShell Constrained Language Mode
+      - [x] 8.3.1.1 Exercises
+    - [x] 8.3.2 Custom Runspaces
+      - [x] 8.3.2.1 Exercises
     - [ ] 8.3.3 PowerShell CLM Bypass
       - [ ] 8.3.3.1 Exercises
     - [ ] 8.3.4 Reflective Injection Returns
