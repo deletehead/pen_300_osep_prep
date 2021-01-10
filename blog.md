@@ -79,3 +79,10 @@ I loved how they went over Windbg in a very approachable way. It somehow made th
 
 #### Goofs
 - In 7.1.1, mention that you should connect to the `defender` host, not the `dev` host. I poked around on `dev` looking for Windbg and it wasn't there. Better yet, just have Windbg on both (not sure why you wouldn't have it on the `dev` machine :D)
+
+### 8. Application Whitelisting
+#### I liked
+A bunch of great methods to bypass default AppLocker rules, and more advanced ones. This was an excellent section, and I feel armed to face even more intense AppLocker policies.
+
+#### I did not like
+Not sure why but it felt like this section wouldn't end. Good and bad I suppose. The later part with `Microsoft.Workflow.Compiler.exe` was just something I glossed over and didn't really go over. I thought it's something I'll go for when/if I need it.
