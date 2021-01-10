@@ -209,33 +209,33 @@ Collection of resources used in prep for OSEP, including course material progres
       - [x] 8.2.3.1 Exercises
     - [x] 8.2.4 Third Party Execution
       - [x] 8.2.4.1 Exercise
-  - [ ] 8.3 Bypassing AppLocker with PowerShell
+  - [x] 8.3 Bypassing AppLocker with PowerShell
     - [x] 8.3.1 PowerShell Constrained Language Mode
       - [x] 8.3.1.1 Exercises
     - [x] 8.3.2 Custom Runspaces
       - [x] 8.3.2.1 Exercises
-    - [ ] 8.3.3 PowerShell CLM Bypass
+    - [x] 8.3.3 PowerShell CLM Bypass
       - [ ] 8.3.3.1 Exercises
-    - [ ] 8.3.4 Reflective Injection Returns
+    - [x] 8.3.4 Reflective Injection Returns
       - [ ] 8.3.4.1 Exercise
-  - [ ] 8.4 Bypassing AppLocker with C#
-    - [ ] 8.4.1 Locating a Target
-    - [ ] 8.4.2 Reverse Engineering for Load
+  - [x] 8.4 Bypassing AppLocker with C#
+    - [x] 8.4.1 Locating a Target
+    - [x] 8.4.2 Reverse Engineering for Load
       - [ ] 8.4.2.1 Exercises
-    - [ ] 8.4.3 Give Me Code Exec
+    - [x] 8.4.3 Give Me Code Exec
       - [ ] 8.4.3.1 Exercise
-    - [ ] 8.4.4 Invoking the Target Part 1
+    - [x] 8.4.4 Invoking the Target Part 1
       - [ ] 8.4.4.1 Exercises
-    - [ ] 8.4.5 Invoking the Target Part 2
+    - [x] 8.4.5 Invoking the Target Part 2
       - [ ] 8.4.5.1 Exercises
       - [ ] 8.4.5.2 Extra Mile
-  - [ ] 8.5 Bypassing AppLocker with JScript
-    - [ ] 8.5.1 JScript and MSHTA
+  - [x] 8.5 Bypassing AppLocker with JScript
+    - [x] 8.5.1 JScript and MSHTA
       - [ ] 8.5.1.1 Exercises
-    - [ ] 8.5.2 XSL Transform
+    - [x] 8.5.2 XSL Transform
       - [ ] 8.5.2.1 Exercises
       - [ ] 8.5.2.2 Extra Mile
-  - [ ] 8.6 Wrapping Up
+  - [x] 8.6 Wrapping Up
 - [ ] 9 Bypassing Network Filters
   - [ ] 9.1 DNS Filters
     - [ ] 9.1.1 DNS Filters
