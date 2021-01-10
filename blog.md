@@ -86,3 +86,6 @@ A bunch of great methods to bypass default AppLocker rules, and more advanced on
 
 #### I did not like
 Not sure why but it felt like this section wouldn't end. Good and bad I suppose. The later part with `Microsoft.Workflow.Compiler.exe` was just something I glossed over and didn't really go over. I thought it's something I'll go for when/if I need it.
+
+#### Pain points and stuff to review
+- Need to do 8.4.5.2 Extra Mile...and really that whole 8.4.5 section.
