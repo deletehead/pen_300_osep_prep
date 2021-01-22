@@ -236,52 +236,52 @@ Collection of resources used in prep for OSEP, including course material progres
       - [ ] 8.5.2.1 Exercises
       - [ ] 8.5.2.2 Extra Mile
   - [x] 8.6 Wrapping Up
-- [ ] 9 Bypassing Network Filters
-  - [ ] 9.1 DNS Filters
-    - [ ] 9.1.1 DNS Filters
+- [x] 9 Bypassing Network Filters
+  - [x] 9.1 DNS Filters
+    - [x] 9.1.1 DNS Filters
       - [ ] 9.1.1.1 Exercises
-    - [ ] 9.1.2 Dealing with DNS Filters
+    - [x] 9.1.2 Dealing with DNS Filters
       - [ ] 9.1.2.1 Exercise
-  - [ ] 9.2 Web Proxies
-    - [ ] 9.2.1 Bypassing Web Proxies
+  - [x] 9.2 Web Proxies
+    - [x] 9.2.1 Bypassing Web Proxies
       - [ ] 9.2.1.1 Exercises
-  - [ ] 9.3 IDS and IPS Sensors
-    - [ ] 9.3.1 Case Study: Bypassing Norton HIPS with Custom Certificates
-      - [ ] 9.3.1.1 Exercises
-  - [ ] 9.4 Full Packet Capture Devices
-  - [ ] 9.5 HTTPS Inspection
-  - [ ] 9.6 Domain Fronting
-    - [ ] 9.6.1 Domain Fronting with Azure CDN
+  - [x] 9.3 IDS and IPS Sensors
+    - [x] 9.3.1 Case Study: Bypassing Norton HIPS with Custom Certificates
+      - [x] 9.3.1.1 Exercises
+  - [x] 9.4 Full Packet Capture Devices
+  - [x] 9.5 HTTPS Inspection
+  - [x] 9.6 Domain Fronting
+    - [x] 9.6.1 Domain Fronting with Azure CDN
       - [ ] 9.6.1.1 Exercise
       - [ ] 9.6.1.2 Extra Mile
-    - [ ] 9.6.2 Domain Fronting in the Lab
+    - [x] 9.6.2 Domain Fronting in the Lab
       - [ ] 9.6.2.1 Exercises
       - [ ] 9.6.2.2 Extra Mile
-  - [ ] 9.7 DNS Tunneling
-    - [ ] 9.7.1 How DNS Tunneling Works
-    - [ ] 9.7.2 DNS Tunneling with dnscat2
+  - [x] 9.7 DNS Tunneling
+    - [x] 9.7.1 How DNS Tunneling Works
+    - [x] 9.7.2 DNS Tunneling with dnscat2
       - [ ] 9.7.2.1 Exercises
-  - [ ] 9.8 Wrapping Up
-- [ ] 10 Linux Post-Exploitation
-  - [ ] 10.1 User Configuration Files
-    - [ ] 10.1.1 VIM Config Simple Backdoor
-      - [ ] 10.1.1.1 Exercises
+  - [x] 9.8 Wrapping Up
+- [x] 10 Linux Post-Exploitation
+  - [x] 10.1 User Configuration Files
+    - [x] 10.1.1 VIM Config Simple Backdoor
+      - [x] 10.1.1.1 Exercises
       - [ ] 10.1.1.2 Extra Mile
-    - [ ] 10.1.2 VIM Config Simple Keylogger
+    - [x] 10.1.2 VIM Config Simple Keylogger
       - [ ] 10.1.2.1 Exercises
-  - [ ] 10.2 Bypassing AV
-    - [ ] 10.2.1 Kaspersky Endpoint Security
-    - [ ] 10.2.2 Antiscan.me
-      - [ ] 10.2.2.1 Exercises
+  - [x] 10.2 Bypassing AV
+    - [x] 10.2.1 Kaspersky Endpoint Security
+    - [x] 10.2.2 Antiscan.me
+      - [x] 10.2.2.1 Exercises
       - [ ] 10.2.2.2 Extra Mile
-  - [ ] 10.3 Shared Libraries
-    - [ ] 10.3.1 How Shared Libraries Work on Linux
-    - [ ] 10.3.2 Shared Library Hijacking via LD_LIBRARY_PATH
-      - [ ] 10.3.2.1 Exercises
+  - [x] 10.3 Shared Libraries
+    - [x] 10.3.1 How Shared Libraries Work on Linux
+    - [x] 10.3.2 Shared Library Hijacking via LD_LIBRARY_PATH
+      - [x] 10.3.2.1 Exercises
       - [ ] 10.3.2.2 Extra Mile
-    - [ ] 10.3.3 Exploitation via LD_PRELOAD
+    - [x] 10.3.3 Exploitation via LD_PRELOAD
       - [ ] 10.3.3.1 Exercises
-  - [ ] 10.4 Wrapping Up
+  - [x] 10.4 Wrapping Up
 - [ ] 11 Kiosk Breakouts
   - [ ] 11.1 Kiosk Enumeration
     - [ ] 11.1.1 Kiosk Browser Enumeration
