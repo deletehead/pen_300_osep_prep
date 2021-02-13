@@ -282,30 +282,30 @@ Collection of resources used in prep for OSEP, including course material progres
     - [x] 10.3.3 Exploitation via LD_PRELOAD
       - [ ] 10.3.3.1 Exercises
   - [x] 10.4 Wrapping Up
-- [ ] 11 Kiosk Breakouts
-  - [ ] 11.1 Kiosk Enumeration
-    - [ ] 11.1.1 Kiosk Browser Enumeration
+- [x] 11 Kiosk Breakouts
+  - [x] 11.1 Kiosk Enumeration
+    - [x] 11.1.1 Kiosk Browser Enumeration
       - [ ] 11.1.1.1 Exercises
-  - [ ] 11.2 Command Execution
-    - [ ] 11.2.1 Exploring the Filesystem
-    - [ ] 11.2.2 Leveraging Firefox Profiles
-    - [ ] 11.2.3 Enumerating System Information
-    - [ ] 11.2.4 Scratching the Surface
+  - [x] 11.2 Command Execution
+    - [x] 11.2.1 Exploring the Filesystem
+    - [x] 11.2.2 Leveraging Firefox Profiles
+    - [x] 11.2.3 Enumerating System Information
+    - [x] 11.2.4 Scratching the Surface
       - [ ] 11.2.4.1 Exercises
       - [ ] 11.2.4.2 Extra Mile
-  - [ ] 11.3 Post-Exploitation
-    - [ ] 11.3.1 Simulating an Interactive Shell
+  - [x] 11.3 Post-Exploitation
+    - [x] 11.3.1 Simulating an Interactive Shell
       - [ ] 11.3.1.1 Exercises
       - [ ] 11.3.1.2 Extra Mile
-  - [ ] 11.4 Privilege Escalation
-    - [ ] 11.4.1 Thinking Outside the Box
-    - [ ] 11.4.2 Root Shell at the Top of the Hour
-    - [ ] 11.4.3 Getting Root Terminal Access
+  - [x] 11.4 Privilege Escalation
+    - [x] 11.4.1 Thinking Outside the Box
+    - [x] 11.4.2 Root Shell at the Top of the Hour
+    - [x] 11.4.3 Getting Root Terminal Access
       - [ ] 11.4.3.1 Exercises
-  - [ ] 11.5 Windows Kiosk Breakout Techniques
-    - [ ] 11.5.1 Windows Kiosk Breakout Techniques
+  - [x] 11.5 Windows Kiosk Breakout Techniques
+    - [x] 11.5.1 Windows Kiosk Breakout Techniques
       - [ ] 11.5.1.1 Exercises
-  - [ ] 11.6 Wrapping Up
+  - [x] 11.6 Wrapping Up
 - [ ] 12 Windows Credentials
   - [ ] 12.1 Local Windows Credentials
     - [ ] 12.1.1 SAM Database
